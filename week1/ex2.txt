@@ -1,0 +1,12 @@
+    1  d
+    2  cd
+    3  mkdir week1
+    4  cd /week1
+    5  cd week1
+    6  ls ~/usr/bin
+    7  ls /usr/bin
+    8  ls /usr/bin/*gcc*
+    9  ls /usr/bin/
+   10  ls /usr/bin/*gcc* |sort -r > ex1.txt
+   11  _code ex1.txt
+   12  nano ex1.txt

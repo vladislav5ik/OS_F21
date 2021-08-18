@@ -1,0 +1,16 @@
+    7  ls /usr/bin
+    8  ls /usr/bin/*gcc*
+    9  ls /usr/bin/
+   10  ls /usr/bin/*gcc* |sort -r > ex1.txt
+   11  _code ex1.txt
+   12  nano ex1.txt
+   13  history > ex2.txt
+   14  nano ex2.txt
+   15  touch ex3.sh
+   22  nano ex3.sh
+   23  sh ex3.sh
+   24  touch main.c
+   28  gcc main.c -o ex4
+   29  ex4
+   31  nano main.c
+   32  ./ex4
