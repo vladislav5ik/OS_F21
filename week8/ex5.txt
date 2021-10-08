@@ -1,0 +1,3 @@
+Difference between a physical and a virtual address:
+
+Physical adress is directly connected to the hardware, it maps real physical memory, so each memory cell in ram have it's own adress in the single space. Data stored in virtual adresses also stored in physical memory, BUT virtual adressing provides multiple adress spaces for different processes. So, from point of view of process adresses will begin from 0 to some number, but actually data stored by process have another physical adress. (And even can be in different parts in physical memory) That feature protect processes from accessing prohibited adresses belong to system or another processes as well.

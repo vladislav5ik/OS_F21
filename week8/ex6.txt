@@ -1,0 +1,10 @@
+A machine has 16-bit virtual addresses. Pages are 8 KB. How
+many entries are needed for a single-level linear page table?
+
+Solution:
+
+number of entries  = page table size / entry size
+Page table size of 16-bit machine is 2^16
+The page table contains 2^16 / 2^13 = 8
+
+Answer: 8 entries
