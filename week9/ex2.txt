@@ -1,0 +1,5 @@
+1 1 1 1 2 2 2 2 3 3 3 3 1 1 2 2 3 3 4 5 1 1 1 1 1 1 1 2 1 1 2 2 2 2 1 1 1 1
+Such a sequence contains pages, some of which are repeated most often, and others very rarely. (The number of frames in the test was much less than the number of different pages) With this sequence, the ratio was about 70 percent.
+
+1 1 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3
+With an equal distribution of pages, the ratio drops (almost to zero) because there is no principle that a frequently called page is most likely to be used in the future.
