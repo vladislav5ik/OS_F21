@@ -1,0 +1,10 @@
+Directory week01 not found, creating new one.
+File week01/file.txt created.
+Directory week10 found.
+Files week01/file.txt and week10/_ex2.txt are linked.
+Inum of file.txt is 1049701
+Inum of _ex2.txt is 1049701
+All links to file.txt:
+/home/vladislav/os_f21/week01/file.txt
+/home/vladislav/os_f21/week10/_ex2.txt
+All links removed
