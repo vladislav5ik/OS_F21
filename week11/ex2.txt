@@ -1,0 +1,37 @@
+CHROOT ----
+
+.
+..
+bin
+lib64
+file1
+usr
+file2
+ex2.out
+lib
+NO CHROOT ----
+
+desktopfs-pkgs.txt
+var
+bin
+proc
+srv
+root
+lib64
+lib
+boot
+sys
+..
+mnt
+opt
+etc
+sbin
+lost+found
+rootfs-pkgs.txt
+usr
+.manjaro-tools
+home
+run
+.
+tmp
+dev
