@@ -1,0 +1,9 @@
+This program recognizes shortcuts.
+Avaliable shortcuts are: PE, CAP, VS
+Vladislav Spigin
+Vladislav Spigin
+I passed the Exam!
+I passed the Exam!
+Get some cappuccino!
+Get some cappuccino!
+
