@@ -1,0 +1,13 @@
+1.Recovery
+This method check if large number of processes were blocked and CPU load is low. When deadblock happens, this algorithm finds deadlock processes and kill them.
+
+This method not loading CPU with many checks, and may be effective if deadlocks happens not often.
+
+2.Prevention
+
+This method used with recovery method. It uses more checks to prevent deadlocks, so this method is more effective.
+But, method can significantly load CPU because of preventions deadlock's conditions.
+
+3.Avoidance
+
+This method doesn't have any prevention algorithm, so it not load CPU. But you can use this method only if you 100% trust of deadblock can not occure on your computer. Also, this method requaries smart scheduler.
